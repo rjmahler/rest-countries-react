@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+h1, h2 {
+  margin: 10px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+table {
+  margin: 10px;
+}
+select {
+  margin: 10px;
+}
+
+input {
+  margin: 10px;
+}
+
